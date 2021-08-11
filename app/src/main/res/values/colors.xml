@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#329d67</color>
+    <color name="colorPrimaryDark">#329d67</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="qr_code_white">#FFFFFFFF</color>
+    <color name="qr_code_finder_mask">#80000000</color>
+    <color name="qr_code_finder_frame">#FFFFFFFF</color>
+    <color name="qr_code_finder_laser">#ef8394</color>
+
+    <!-- 下划线选中 -->
+    <color name="box_line_select">#329d67</color>
+    <color name="box_line_un_select">#FF7A7978</color>
+
+    <color name="layout_bg_gray">#EBEAEA</color>
+    <color name="view_line_gray">#B1B1B1</color>
+</resources>
