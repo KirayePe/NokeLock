@@ -64,5 +64,5 @@
         android:layout_height="wrap_content"
         android:padding="5dp"
         android:gravity="center"
-        android:text="Version：" />
+        android:text="Version： " />
 </LinearLayout>
